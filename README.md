@@ -91,7 +91,7 @@ TRASH-TO-TRESURE/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Silapareddy-Praveen-Kumar-Reddy/TRASH-TO-TRESURE.git
+git clone https://github.com/meghana101112/Trash_to_treasure.git
 cd TRASH-TO-TRESURE/TRASH-TO-TRESURE
 
 # 2. Install dependencies
